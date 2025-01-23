@@ -4,3 +4,5 @@
 #### H4 Header
 ##### H5 Header
 ###### H6 Header
+
+![Image of Dinocat](https://octodex.github.com/images/dinotocat.png)
